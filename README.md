@@ -31,8 +31,5 @@ If you wish to deploy this project on heroku dont make any installion changes yo
 * [node.js](https://nodejs.org/en/) - The web backend used.
 * [Heroku](https://www.heroku.com/) - Cloud Plateform for Deployment.
 
-## Authors
-* **[Aishwarya Maurya](https://github.com/AishwaryaM12)**
 
-* **[Jinendra Malekar](https://github.com/JINU98)**
 
